@@ -53,8 +53,7 @@
                 .col-lg-11
                   h4.mb-4 Empresas industriales o agroindustriales
                   p.mb-4 Producen cultivos destinados a procesos industriales, como caña de azúcar, algodón, tabaco o palma de aceite.
-                  img.mb-2(alt="" src="@/assets/curso/tema1/7.png")
-                  figcaption Fuente: https://www.fao.org/fileadmin/user_upload/AGRO_Noticias/img/palma2.jpg
+                  img(alt="" src="@/assets/curso/tema1/7.png")
               .row.justify-content-center.align-items.p-0.p-lg-4
                 .col-lg-11
                   h4.mb-4 Empresas agrícolas especializadas
@@ -69,7 +68,7 @@
         .col-lg-6
           img.mb-lg-0.mb-4(src='@/assets/curso/tema1/9.svg')
         .col-lg-6
-          p.mb-lg-0.mb-4 Las empresas agrícolas también pueden clasificarse en función de su tamaño, lo que se determina principalmente por la extensión de la superficie cultivada, el volumen de producción, la cantidad de trabajadores y el nivel de inversión. Esta categorización permite diferenciar entre pequeñas, medianas y grandes unidades productivas, cada una con características, capacidades y retos particulares. Analizar el tamaño de la empresa es clave para comprender su alcance en el mercado, su acceso a tecnologías, su potencial de crecimiento y su impacto en la economía local y regional
+          p.mb-lg-0.mb-4 Las empresas agrícolas también pueden clasificarse en función de su tamaño, lo que se determina principalmente por la extensión de la superficie cultivada, el volumen de producción, la cantidad de trabajadores y el nivel de inversión. Esta categorización permite diferenciar entre pequeñas, medianas y grandes unidades productivas, cada una con características, capacidades y retos particulares. Analizar el tamaño de la empresa es clave para comprender su alcance en el mercado, su acceso a tecnologías, su potencial de crecimiento y su impacto en la economía local y regional.
 
       TabsC.color-primario.mb-5(data-aos="fade-right")
         .py-3.py-md-4.bg3.px-3(titulo="Microempresas agrícolas")
@@ -77,8 +76,7 @@
             .col-lg-11
               .row.justify-content-center.align-items-center.p-lg-4.p-3
                 .col-lg-7.order-lg-1.order-md-2.order-2
-                  img.mb-2(src='@/assets/curso/tema1/10.png', alt='')
-                  figcaption.des Fuente: https://sanluispotosi.quadratin.com.mx/www/wp-content/uploads/2019/03/productos-agropecuarios.jpg
+                  img.mb-0(src='@/assets/curso/tema1/10.png', alt='')
                 .col-lg-5.order-lg-2.order-md-1.order-1
                   h4.mb-4 Microempresas agrícolas
                   p.mb-4.mb-lg-0 Pequeñas explotaciones, generalmente de carácter familiar, con producción limitada y orientada principalmente al mercado local. Suelen contar con una plantilla de 0 a 10 trabajadores.
@@ -87,8 +85,7 @@
             .col-lg-11
               .row.justify-content-center.align-items-center.p-lg-4.p-3
                 .col-lg-7.order-lg-1.order-md-2.order-2
-                  img.mb-2(src='@/assets/curso/tema1/11.png', alt='')
-                  figcaption.des Fuente: https://storage.contextoganadero.com/s3fs-public/colombia/field_image/2018-04/dvd1t54waaax9vx.jpg
+                  img.mb-0(src='@/assets/curso/tema1/11.png', alt='')
                 .col-lg-5.order-lg-2.order-md-1.order-1
                   h4.mb-4 Pequeñas empresas agrícolas (pymes)
                   p.mb-4.mb-lg-0 Unidades productivas con mayor nivel de organización, capaces de comercializar en mercados regionales o nacionales. Generalmente cuentan con una plantilla de entre 11 y 49 trabajadores.
@@ -115,11 +112,10 @@
             .col-lg-11
               .row.justify-content-center.align-items-center.p-lg-4.p-3
                 .col-lg-7.order-lg-1.order-md-2.order-2
-                  img.mb-2(src='@/assets/curso/tema1/16.png', alt='')
-                  figcaption.des Fuente: https://s3.amazonaws.com/croperblog/2022/09/Maquinaria-Agricola--1-.png
+                  img.mb-0(src='@/assets/curso/tema1/16.png', alt='')
                 .col-lg-5.order-lg-2.order-md-1.order-1
                   h4.mb-4 Grandes empresas agrícolas
-                  p.mb-4.mb-lg-0 Explotaciones de gran escala, caracterizadas por su alta mecanización, uso de tecnología avanzada y amplia presencia en los mercados. Generalmente emplean a más de 250 trabajadores
+                  p.mb-4.mb-lg-0 Explotaciones de gran escala, caracterizadas por su alta mecanización, uso de tecnología avanzada y amplia presencia en los mercados. Generalmente emplean a más de 250 trabajadores.
 
       .titulo1.mb-lg-5.mb-5.mb-md-5.ps-1.pe-1.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/sub.svg', alt='Imagen decorativa')
@@ -140,7 +136,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-2.bro Video: Tipos de sociedades en Colombia
-                p.mb-0 Se invita a explorar sobre el tipo de sociedades existentes en Colombia
+                p.mb-0 Se invita a explorar sobre el tipo de sociedades existentes en Colombia.
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=IvTbUlDBrrg" target="_blank")
                   span Ir al sitio

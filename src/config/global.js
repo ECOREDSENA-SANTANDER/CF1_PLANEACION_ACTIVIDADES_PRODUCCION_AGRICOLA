@@ -379,7 +379,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

@@ -46,7 +46,7 @@
           .row.justify-content-center.align-items.p-2(titulo="Análisis PESTEL")
             .col-lg-11.mb-lg-0.mb-4
               p.mb-0 Examina factores: Políticos, Económicos, Sociales, Tecnológicos, Ecológicos y Legales que influyen en la empresa.
-          .row.justify-content-center.align-items.p-2(titulo="Benchmarking")
+          .row.justify-content-center.align-items.p-2(titulo="<em>Benchmarking</em>")
             .col-lg-11.mb-lg-0.mb-4
               p.mb-0 Comparación con otras empresas agrícolas para adoptar mejores prácticas.
       .col-lg-3

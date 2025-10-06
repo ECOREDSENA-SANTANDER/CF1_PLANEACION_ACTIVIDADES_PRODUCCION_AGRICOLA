@@ -39,10 +39,10 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
         .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
-          .col-lg-12(alt="")
-            .titulo-sexto.color-secundario.mb-4
+          .col-lg-12
+            .titulo-sexto.color-secundario.mb-4(alt="Clasifica los mercados según distintos criterios: por tipo de producto (frescos o procesados), por destino (local, nacional o internacional), por comprador (consumidor final, intermediarios o empresas transformadoras) y por competencia (competencia perfecta u oligopolio/monopolio).")
               h5 Tabla 7. 
-              | 
+              | Clasificación según los tipos de mercados
   
         .tabla-a.cf5(data-aos="fade-right")
           table

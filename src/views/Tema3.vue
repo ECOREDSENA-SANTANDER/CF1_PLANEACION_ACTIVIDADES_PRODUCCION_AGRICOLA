@@ -18,8 +18,7 @@
     .bg6.mb-0
       .row.justify-content-center.align-items-center
         .col-lg-5.col-md-8.col-12.mb-lg-0.mb-0(data-aos="fade-right")
-          img.mb-2(src='@/assets/curso/tema3/2.png', alt='')
-          figcaption Fuente: Tomada de https://www.postposmo.com/wp-content/uploads/2020/07/foto-mision_o_vision_cual_desarrollamos_primero.jpg
+          img.mb-0(src='@/assets/curso/tema3/2.png', alt='')
         .col-lg-7(data-aos="fade-left")
           .p-4.mb-0
             ul.lista-ul
@@ -88,7 +87,7 @@
             .row.justify-content-center.align-items-center.mb-0.ps-1(numero="1" titulo="Misión")
               .col-lg-12
                 p.mb-2 #[b Ejemplos:]
-                p.mb-0 “producir alimentos orgánicos de alta calidad para promover la salud y el bienestar de nuestra comunidad.”
+                p.mb-0 “Producir alimentos orgánicos de alta calidad para promover la salud y el bienestar de nuestra comunidad.”
           .row.justify-content-center.align-items-center.mb-0(numero="2" titulo="Visión")
             .col-lg-11
               ul.lista-ul
@@ -104,7 +103,7 @@
             .row.justify-content-center.align-items-center.mb-0.ps-1(numero="1" titulo="Misión")
               .col-lg-12
                 p.mb-2 #[b Ejemplos:]
-                p.mb-0 “ser líder regional en agricultura sostenible y reconocidos por nuestras prácticas innovadoras para 2030.”
+                p.mb-0 “Ser líder regional en agricultura sostenible y reconocidos por nuestras prácticas innovadoras para 2030.”
           .row.justify-content-center.align-items-center.mb-0(numero="3" titulo="Objetivos estratégicos")
             .col-lg-11
               ul.lista-ul
@@ -136,9 +135,9 @@
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
                   p.mb-0 #[b Objetivos:]
-                p.mb-0.mx-4 a)	Obtener certificación orgánica.
-                p.mb-0.mx-4 b)	Aumentar las ventas directas a consumidores.
-                p.mb-0.mx-4 c)	Implementar nuevas tecnologías de secado y fermentación.
+                p.mb-0.mx-4 a) Obtener certificación orgánica.
+                p.mb-0.mx-4 b) Aumentar las ventas directas a consumidores.
+                p.mb-0.mx-4 c) Implementar nuevas tecnologías de secado y fermentación.
 
 
 

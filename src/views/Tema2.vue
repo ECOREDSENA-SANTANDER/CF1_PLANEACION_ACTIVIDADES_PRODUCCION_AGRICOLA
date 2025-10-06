@@ -54,8 +54,10 @@
                 td.p-3.tl
                   .row.justify-content-center.align-items-center.mb-0
                     .col-lg-12
-                      p.mb-1 Tiene una cadena de mando clara. 
                       ul.lista-ul
+                        li.d-flex.mb-2
+                          i.fas.fa-circle-check
+                          p.mb-0 Tiene una cadena de mando clara. 
                         li.d-flex.mb-2
                           i.fas.fa-circle-check
                           p.mb-0 Cada trabajador responde a un superior.
@@ -67,8 +69,10 @@
                 td.p-3.tl
                   .row.justify-content-center.align-items-center.mb-0
                     .col-lg-12
-                      p.mb-1 Combina la funcional con la organización por proyectos o cultivos.
                       ul.lista-ul
+                        li.d-flex.mb-0
+                          i.fas.fa-circle-check
+                          p.mb-0 Combina la funcional con la organización por proyectos o cultivos.
                         li.d-flex.mb-0
                           i.fas.fa-circle-check
                           p.mb-0 Cada empleado puede tener dos jefes: uno por función y otro por proyecto.
@@ -77,8 +81,10 @@
                 td.p-3.tl
                   .row.justify-content-center.align-items-center.mb-0
                     .col-lg-12
-                      p.mb-1 Se organiza según los diferentes cultivos o unidades productivas (por ejemplo, café, plátano, ganadería). 
                       ul.lista-ul
+                        li.d-flex.mb-0
+                          i.fas.fa-circle-check
+                          p.mb-0 Se organiza según los diferentes cultivos o unidades productivas (por ejemplo, café, plátano, ganadería). 
                         li.d-flex.mb-0
                           i.fas.fa-circle-check
                           p.mb-0 Se usa en explotaciones agrícolas diversificadas.
