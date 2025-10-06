@@ -44,7 +44,7 @@
               h5 Tabla 7. 
               | Clasificación según los tipos de mercados
   
-        .tabla-a.cf5(data-aos="fade-right")
+        .tabla-a.cf5
           table
             thead
               tr
@@ -107,7 +107,7 @@
               h5 Tabla 8. 
               | Variables del mercado
   
-        .tabla-a.cf6(data-aos="fade-right")
+        .tabla-a.cf6
           table
             thead
               tr

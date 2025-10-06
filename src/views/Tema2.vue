@@ -30,7 +30,7 @@
       .col-lg-4
         img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/3.png', alt='Imagen decorativa')  
       .col-lg-8  
-        .tabla-a.cf4.mb-0(data-aos="fade-right")
+        .tabla-a.cf4.mb-0
           table
             thead
               tr
@@ -70,7 +70,7 @@
                   .row.justify-content-center.align-items-center.mb-0
                     .col-lg-12
                       ul.lista-ul
-                        li.d-flex.mb-0
+                        li.d-flex.mb-2
                           i.fas.fa-circle-check
                           p.mb-0 Combina la funcional con la organización por proyectos o cultivos.
                         li.d-flex.mb-0
@@ -82,7 +82,7 @@
                   .row.justify-content-center.align-items-center.mb-0
                     .col-lg-12
                       ul.lista-ul
-                        li.d-flex.mb-0
+                        li.d-flex.mb-2
                           i.fas.fa-circle-check
                           p.mb-0 Se organiza según los diferentes cultivos o unidades productivas (por ejemplo, café, plátano, ganadería). 
                         li.d-flex.mb-0

@@ -148,7 +148,7 @@
             h5 Tabla 1. 
             | Clasificación de empresas según su forma jurídica en Colombia
 
-      .tabla-a.cf1.mb-5(data-aos="fade-right")
+      .tabla-a.cf1.mb-5
         table
           thead
             tr
@@ -226,7 +226,7 @@
             h5 Tabla 2. 
             | Tipos de empresas según el uso de tecnología
 
-      .tabla-a.cf2.mb-5(data-aos="fade-right")
+      .tabla-a.cf2.mb-5
         table
           thead
             tr
@@ -310,7 +310,7 @@
                 .titulo-sexto.color-secundario.mb-4
                   h5 Tabla 3. 
                   | Requisitos legales
-            .tabla-a.cf3.mb-0(data-aos="fade-right")
+            .tabla-a.cf3.mb-0
               table
                 thead
                   tr
@@ -340,7 +340,7 @@
                 .titulo-sexto.color-secundario.mb-4
                   h5 Tabla 4. 
                   | Requisitos técnicos y operativos
-            .tabla-a.cf3.mb-0.tsh(data-aos="fade-right")
+            .tabla-a.cf3.mb-0.tsh
               table
                 thead
                   tr
@@ -382,7 +382,7 @@
                 .titulo-sexto.color-secundario.mb-4
                   h5 Tabla 5. 
                   | Requisitos administrativos y de gestión
-            .tabla-a.cf3.mb-0(data-aos="fade-right")
+            .tabla-a.cf3.mb-0
               table
                 thead
                   tr
@@ -410,7 +410,7 @@
                 .titulo-sexto.color-secundario.mb-4
                   h5 Tabla 6. 
                   | Requisitos financieros
-            .tabla-a.cf3.mb-0(data-aos="fade-right")
+            .tabla-a.cf3.mb-0
               table
                 thead
                   tr
