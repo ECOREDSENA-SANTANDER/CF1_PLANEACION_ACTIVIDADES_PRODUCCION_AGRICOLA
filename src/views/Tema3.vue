@@ -139,15 +139,6 @@
                 p.mb-0.mx-4 b) Aumentar las ventas directas a consumidores.
                 p.mb-0.mx-4 c) Implementar nuevas tecnologías de secado y fermentación.
 
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>

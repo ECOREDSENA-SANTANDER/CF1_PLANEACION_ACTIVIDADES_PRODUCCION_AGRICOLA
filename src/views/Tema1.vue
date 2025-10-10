@@ -138,7 +138,7 @@
                 h4.mb-2.bro Video: Tipos de sociedades en Colombia
                 p.mb-0 Se invita a explorar sobre el tipo de sociedades existentes en Colombia.
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=IvTbUlDBrrg" target="_blank")
+                a.boton.color-acento-botones(href="https://youtu.be/Q6AoUJFoXvM" target="_blank")
                   span Ir al sitio
                   i.fas.fa-circle-play
   
