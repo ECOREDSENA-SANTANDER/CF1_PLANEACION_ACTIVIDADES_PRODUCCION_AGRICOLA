@@ -37,14 +37,12 @@
         p.mb-0 En el sector agrícola, esta clasificación ayuda a diferenciar si los productos se venderán de forma local, regional, nacional o internacional, y si se orientarán a consumidores finales, intermediarios o industrias procesadoras.
 
     .row.justify-content-center.align-items-center.mb-0
-      .col-lg-12
-        .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
-          .col-lg-12
-            .titulo-sexto.color-secundario.mb-4(alt="Clasifica los mercados según distintos criterios: por tipo de producto (frescos o procesados), por destino (local, nacional o internacional), por comprador (consumidor final, intermediarios o empresas transformadoras) y por competencia (competencia perfecta u oligopolio/monopolio).")
-              h5 Tabla 7. 
-              | Clasificación según los tipos de mercados
+      .col-lg-12(alt="Clasifica los mercados según distintos criterios: por tipo de producto (frescos o procesados), por destino (local, nacional o internacional), por comprador (consumidor final, intermediarios o empresas transformadoras) y por competencia (competencia perfecta u oligopolio/monopolio).")
+        .titulo-sexto.color-secundario.mb-4(alt="Clasifica los mercados según distintos criterios: por tipo de producto (frescos o procesados), por destino (local, nacional o internacional), por comprador (consumidor final, intermediarios o empresas transformadoras) y por competencia (competencia perfecta u oligopolio/monopolio).")
+          h5 Tabla 7. 
+          | Clasificación según los tipos de mercados
   
-        .tabla-a.cf5
+        .tabla-a.cf5(alt="Clasifica los mercados según distintos criterios: por tipo de producto (frescos o procesados), por destino (local, nacional o internacional), por comprador (consumidor final, intermediarios o empresas transformadoras) y por competencia (competencia perfecta u oligopolio/monopolio).")
           table
             thead
               tr
@@ -53,43 +51,43 @@
                 th Ejemplo
             tbody
               tr.bgg
-                td #[b Según el tipo de producto]
+                td.tl #[b Según el tipo de producto]
                 td.tl Mercado de productos frescos.
                 td.tl Frutas, verduras, hortalizas directamente del campo.
               tr
-                td #[b Según el tipo de producto]
+                td.tl #[b Según el tipo de producto]
                 td.tl Mercado de productos procesados.
                 td.tl Jugos, conservas, mermeladas, etc.
               tr.bgg
-                td #[b Según el destino]
+                td.tl #[b Según el destino]
                 td.tl Mercado local.
                 td.tl Ventas en la misma zona o municipio.
               tr
-                td #[b Según el destino]
+                td.tl #[b Según el destino]
                 td.tl Mercado regional o nacional.
                 td.tl Distribución a ciudades o cadenas comerciales del país.
               tr.bgg
-                td #[b Según el destino]
+                td.tl #[b Según el destino]
                 td.tl Mercado internacional (exportación).
                 td.tl Ventas fuera del país, con mayores requisitos de calidad y certificaciones.
               tr
-                td #[b Según el tipo de comprador]
+                td.tl #[b Según el tipo de comprador]
                 td.tl Consumidor final.
                 td.tl Personas que compran para su consumo directo (ferias, tiendas).
               tr.bgg
-                td #[b Según el tipo de comprador]
+                td.tl #[b Según el tipo de comprador]
                 td.tl Intermediarios.
                 td.tl Comerciantes o distribuidores que revenden.
               tr
-                td #[b Según el tipo de comprador]
+                td.tl #[b Según el tipo de comprador]
                 td.tl Competencia perfecta.
                 td.tl Industrias que usan el producto como materia prima.
               tr.bgg
-                td #[b Según la competencia]
+                td.tl #[b Según la competencia]
                 td.tl Oligopolio o monopolio.
                 td.tl Muchos oferentes y compradores (ejemplo: maíz, papa).
               tr
-                td #[b Según la competencia]
+                td.tl #[b Según la competencia]
                 td.tl Oligopolio o monopolio.
                 td.tl Pocos vendedores dominan el mercado (ejemplo: producción de azúcar controlada por pocas empresas).
 
@@ -115,40 +113,40 @@
                 th Descripción
             tbody
               tr.bgg
-                td.p-3 #[b Económicas]
+                td.p-3.tl #[b Económicas]
                 td.p-3.tl Factores como ingresos de los consumidores, precios de productos y costos de producción.
               tr
-                td.p-3 #[b Demográficas]
+                td.p-3.tl #[b Demográficas]
                 td.p-3.tl Características de los compradores: edad, género, tamaño de la familia y ubicación geográfica.
               tr.bgg
-                td.p-3 #[b Culturales y sociales]
+                td.p-3.tl #[b Culturales y sociales]
                 td.p-3.tl Hábitos de consumo, tradiciones y preferencias alimenticias de los consumidores.
               tr
-                td.p-3 #[b Tecnológicas]
+                td.p-3.tl #[b Tecnológicas]
                 td.p-3.tl Innovaciones en producción, almacenamiento y comercialización de productos.
               tr.bgg
-                td.p-3 #[b Políticas y legales]
+                td.p-3.tl #[b Políticas y legales]
                 td.p-3.tl Normativas, subsidios o restricciones que afectan la producción y venta de alimentos.
               tr
-                td.p-3 #[b Precio]
+                td.p-3.tl #[b Precio]
                 td.p-3.tl Valor de venta del producto; depende de la oferta y demanda, costos de producción y competencia.
               tr.bgg
-                td.p-3 #[b Oferta]
+                td.p-3.tl #[b Oferta]
                 td.p-3.tl Cantidad de producto disponible en el mercado en un período determinado.
               tr
-                td.p-3 #[b Demanda]
+                td.p-3.tl #[b Demanda]
                 td.p-3.tl Cantidad de producto que los consumidores están dispuestos a comprar.
               tr.bgg
-                td.p-3 #[b Calidad del producto]
+                td.p-3.tl #[b Calidad del producto]
                 td.p-3.tl Características como frescura, tamaño, presentación y certificaciones que influyen en la aceptación.
               tr
-                td.p-3 #[b Canales de comercialización]
+                td.p-3.tl #[b Canales de comercialización]
                 td.p-3.tl Vías que sigue el producto desde el productor hasta el consumidor (venta directa, mayoristas, intermediarios).
               tr.bgg
-                td.p-3 #[b Promoción y publicidad]
+                td.p-3.tl #[b Promoción y publicidad]
                 td.p-3.tl Estrategias para dar a conocer el producto y atraer compradores.
               tr
-                td.p-3 #[b Competencia]
+                td.p-3.tl #[b Competencia]
                 td.p-3.tl Número y tipo de productores que ofrecen productos similares. 
 
       .col-lg-5

@@ -30,64 +30,62 @@
       .col-lg-4
         img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/3.png', alt='Imagen decorativa')  
       .col-lg-8  
-        .tabla-a.cf4.mb-0
-          table
-            thead
-              tr
-                th Estructura
-                th Característica
-            tbody
-              tr.bgg
-                td #[b Estructura funcional]
-                td.p-3.tl
-                  .row.justify-content-center.align-items-center.mb-0
-                    .col-lg-12
-                      ul.lista-ul
-                        li.d-flex.mb-2
-                          i.fas.fa-circle-check
-                          p.mb-0 Se organiza por funciones o departamentos (producción, administración, finanzas, comercialización). 
-                        li.d-flex.mb-0
-                          i.fas.fa-circle-check
-                          p.mb-0 Es común en empresas agrícolas medianas o grandes.
-              tr
-                td #[b Estructura jerárquica o lineal]
-                td.p-3.tl
-                  .row.justify-content-center.align-items-center.mb-0
-                    .col-lg-12
-                      ul.lista-ul
-                        li.d-flex.mb-2
-                          i.fas.fa-circle-check
-                          p.mb-0 Tiene una cadena de mando clara. 
-                        li.d-flex.mb-2
-                          i.fas.fa-circle-check
-                          p.mb-0 Cada trabajador responde a un superior.
-                        li.d-flex.mb-0
-                          i.fas.fa-circle-check
-                          p.mb-0 Es típica en empresas familiares o pequeñas fincas.
-              tr.bgg
-                td #[b Estructura matricial]
-                td.p-3.tl
-                  .row.justify-content-center.align-items-center.mb-0
-                    .col-lg-12
-                      ul.lista-ul
-                        li.d-flex.mb-2
-                          i.fas.fa-circle-check
-                          p.mb-0 Combina la funcional con la organización por proyectos o cultivos.
-                        li.d-flex.mb-0
-                          i.fas.fa-circle-check
-                          p.mb-0 Cada empleado puede tener dos jefes: uno por función y otro por proyecto.
-              tr
-                td #[b Estructura por producto o cultivo]
-                td.p-3.tl
-                  .row.justify-content-center.align-items-center.mb-0
-                    .col-lg-12
-                      ul.lista-ul
-                        li.d-flex.mb-2
-                          i.fas.fa-circle-check
-                          p.mb-0 Se organiza según los diferentes cultivos o unidades productivas (por ejemplo, café, plátano, ganadería). 
-                        li.d-flex.mb-0
-                          i.fas.fa-circle-check
-                          p.mb-0 Se usa en explotaciones agrícolas diversificadas.
+        SlyderF(columnas="col-lg-4 col-md-6 col-xl-6")
+          .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+            .row.justify-content-center.align-items-center.mb-4
+              .col-8.mb-4
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/15.svg' alt='AvatarTop')
+              .bgr.p-1.mb-4
+                h4.text-center.mb-0.ps-1.pe-1 Estructura funcional
+            ul.lista-ul
+              li.d-flex.mb-2
+                i.fas.fa-circle-check
+                p.mb-0 Se organiza por funciones o departamentos (producción, administración, finanzas, comercialización). 
+              li.d-flex.mb-0
+                i.fas.fa-circle-check
+                p.mb-0 Es común en empresas agrícolas medianas o grandes.
+          .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+            .row.justify-content-center.align-items-center.mb-4
+              .col-8.mb-4
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/16.svg' alt='AvatarTop')
+              .bgr.p-1.mb-4
+                h4.text-center.mb-0.ps-1.pe-1 Estructura jerárquica o lineal
+            ul.lista-ul
+              li.d-flex.mb-2
+                i.fas.fa-circle-check
+                p.mb-0 Tiene una cadena de mando clara. 
+              li.d-flex.mb-2
+                i.fas.fa-circle-check
+                p.mb-0 Cada trabajador responde a un superior.
+              li.d-flex.mb-0
+                i.fas.fa-circle-check
+                p.mb-0 Es típica en empresas familiares o pequeñas fincas.
+          .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+            .row.justify-content-center.align-items-center.mb-4
+              .col-8.mb-4
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/17.svg' alt='AvatarTop')
+              .bgr.p-1.mb-4
+                h4.text-center.mb-0.ps-1.pe-1 Estructura matricial
+            ul.lista-ul
+              li.d-flex.mb-2
+                i.fas.fa-circle-check
+                p.mb-0 Combina la funcional con la organización por proyectos o cultivos.
+              li.d-flex.mb-0
+                i.fas.fa-circle-check
+                p.mb-0 Cada empleado puede tener dos jefes: uno por función y otro por proyecto.
+          .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+            .row.justify-content-center.align-items-center.mb-4
+              .col-8.mb-4
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/18.svg' alt='AvatarTop')
+              .bgr.p-1.mb-4
+                h4.text-center.mb-0.ps-1.pe-1 Estructura por producto o cultivo
+            ul.lista-ul
+              li.d-flex.mb-2
+                i.fas.fa-circle-check
+                p.mb-0 Se organiza según los diferentes cultivos o unidades productivas (por ejemplo, café, plátano, ganadería). 
+              li.d-flex.mb-0
+                i.fas.fa-circle-check
+                p.mb-0 Se usa en explotaciones agrícolas diversificadas.
  
     separador
     #t_2_2.titulo-segundo.mb-5
@@ -221,16 +219,13 @@
               ul.lista-ul
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
-                  p.mb-0 #[b Claridad:]
-                p.mb-0.mx-4 Evita confusiones sobre las responsabilidades de cada persona.
+                  p.mb-0 #[b Claridad:] evita confusiones sobre las responsabilidades de cada persona.
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
-                  p.mb-0 #[b Eficiencia:]
-                p.mb-0.mx-4 Reduce la duplicación de esfuerzos.
+                  p.mb-0 #[b Eficiencia:] reduce la duplicación de esfuerzos.
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
-                  p.mb-0 #[b Coordinación:]
-                p.mb-0.mx-4 Facilita el trabajo conjunto entre áreas y mejora el rendimiento general de la empresa.
+                  p.mb-0 #[b Coordinación:] facilita el trabajo conjunto entre áreas y mejora el rendimiento general de la empresa.
           .row.justify-content-center.align-items.p-2(titulo="Dirección")
             .col-lg-11.mb-lg-0.mb-4
               p.mb-4 La dirección implica liderar y motivar a los colaboradores para que realicen sus tareas con compromiso y eficiencia.
