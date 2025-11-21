@@ -7,7 +7,7 @@
         span 5
       h1 Herramientas de análisis organizacional
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5
         img.d-none.d-lg-block(src='@/assets/curso/tema5/1.png', alt='')
       .col-lg-7
@@ -28,7 +28,7 @@
               p.mb-0 Recogen información directa del personal o clientes.
           .row.justify-content-center.align-items.p-2(titulo="Matriz de responsabilidades (RACI)")
             .col-lg-11.mb-lg-0.mb-4
-              p.mb-4 Ayuda a definir quién hace qué dentro de un proyecto o proceso, aclarando responsabilidades para evitar confusiones.
+              p.mb-4 Ayuda a definir quién hace qué, dentro de un proyecto o proceso, aclarando responsabilidades para evitar confusiones.
               p.mb-4 Las letras RACI significan:
               ul.lista-ul
                 li.d-flex.mb-0
@@ -154,7 +154,7 @@
       img(src='@/assets/curso/tema1/sub.svg', alt='Imagen decorativa')
       h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Diagnóstico organizacional y técnico
 
-    .row.justify-content.align-items-center.mb-5
+    .row.justify-content.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5
         .bg5.mb-lg-0.p-4.mb-4
           p.mb-3 El diagnóstico organizacional y técnico es un proceso de evaluación integral que analiza el funcionamiento interno de una empresa agrícola desde dos perspectivas complementarias:
@@ -200,7 +200,7 @@
       img(src='@/assets/curso/tema1/sub.svg', alt='Imagen decorativa')
       h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Importancia
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-7
         ul.lista-ul
           li.d-flex.mb-2
@@ -220,6 +220,8 @@
             p.mb-lg-0.mb-4 Incrementa la capacidad de adaptación a cambios del mercado o ambientales.
       .col-lg-5.col-md-9.col-10
         img(src='@/assets/curso/tema5/9.png', alt='')
+
+
 
 </template>
 

@@ -346,7 +346,7 @@ export default {
         {
           nombre: 'Andrés Javier Pacheco Wandurraga',
           cargo: 'Experto temático',
-          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+          centro: 'Centro Agroturístico – Regional Santander ',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',

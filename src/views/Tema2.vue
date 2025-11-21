@@ -14,7 +14,7 @@
           .p-4
             p.mb-0.mx-lg-4(data-aos="fade-left") Una estructura organizacional bien definida y adecuada es esencial para el éxito de cualquier empresa, ya que optimiza la eficiencia y la productividad al establecer de forma clara las funciones, responsabilidades y jerarquías. De esta manera, se minimizan confusiones y duplicidades, se agiliza la toma de decisiones y se fortalece la comunicación interna. Además, una estructura sólida permite adaptarse con mayor facilidad a los cambios del entorno, alinear a los equipos con los objetivos estratégicos y facilitar la atracción y retención de talento. En el caso de las empresas agrícolas, también contribuye a coordinar de manera efectiva las actividades productivas, administrativas y comerciales, maximizando el aprovechamiento de los recursos disponibles.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-5
         p.mb-lg-0.mb-4 Es el sistema que determina cómo se dividen, organizan y coordinan las actividades dentro de la empresa, estableciendo las líneas de autoridad, responsabilidad y comunicación entre los diferentes niveles y áreas. Su propósito es asegurar que cada función esté claramente definida, que los recursos se utilicen de forma eficiente y que los objetivos organizacionales se alcancen de manera ordenada. En el ámbito agrícola, la estructura organizacional también facilita la integración entre las labores productivas, administrativas, logísticas y comerciales, garantizando una gestión coherente y orientada a resultados.
       .col-lg-7.col-md-10.col-10
@@ -26,7 +26,7 @@
     
     p.mb-5 Existen diversos tipos de estructuras organizacionales, cada una con características, ventajas y limitaciones que influyen en la forma en que se gestionan los recursos, se asignan responsabilidades y se toman decisiones. La elección del tipo de estructura más adecuado depende del tamaño de la empresa, su actividad económica, el nivel de especialización requerido y los objetivos estratégicos que se persigan.
    
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-lg-4
         img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/3.png', alt='Imagen decorativa')  
       .col-lg-8  
@@ -34,7 +34,7 @@
           .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
             .row.justify-content-center.align-items-center.mb-4
               .col-8.mb-4
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/15.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/15.svg' alt='AvatarTop')
               .bgr.p-1.mb-4
                 h4.text-center.mb-0.ps-1.pe-1 Estructura funcional
             ul.lista-ul
@@ -47,7 +47,7 @@
           .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
             .row.justify-content-center.align-items-center.mb-4
               .col-8.mb-4
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/16.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/16.svg' alt='AvatarTop')
               .bgr.p-1.mb-4
                 h4.text-center.mb-0.ps-1.pe-1 Estructura jerárquica o lineal
             ul.lista-ul
@@ -63,7 +63,7 @@
           .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
             .row.justify-content-center.align-items-center.mb-4
               .col-8.mb-4
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/17.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/17.svg' alt='AvatarTop')
               .bgr.p-1.mb-4
                 h4.text-center.mb-0.ps-1.pe-1 Estructura matricial
             ul.lista-ul
@@ -76,7 +76,7 @@
           .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
             .row.justify-content-center.align-items-center.mb-4
               .col-8.mb-4
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/18.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/18.svg' alt='AvatarTop')
               .bgr.p-1.mb-4
                 h4.text-center.mb-0.ps-1.pe-1 Estructura por producto o cultivo
             ul.lista-ul
@@ -91,7 +91,7 @@
     #t_2_2.titulo-segundo.mb-5
       h2 2.2 Importancia de la definición de cargos en la gestión empresarial agrícola
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.col-md-10.col-10
         img.mb-lg-0.mb-4(src='@/assets/curso/tema2/4.png', alt='Imagen decorativa')
       .col-lg-7
@@ -147,7 +147,7 @@
     #t_2_3.titulo-segundo.mb-5
       h2 2.3 Procesos en la empresa agrícola
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
         .bg5.p-lg-5.p-4.mb-4.mb-lg-0
           .row.justify-content-center.align-items-center.mb-0.my-lg-3.mb-lg-3.my-0
@@ -309,20 +309,6 @@
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
                   p.mb-0 #[b Efectividad:] mejora la toma de decisiones y la ejecución de las actividades.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </template>
 

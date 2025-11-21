@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.fondo1.justify-content-center.align-items-center.p-2.mb-0(data-aos="fade-down")
+    .row.fondo1.justify-content-center.align-items-center.p-2.mb-0(data-aos="fade-right")
       .col-lg-12.px-lg-5.px-4.mb-0
     
         .row.justify-content-center.align-items-center.mb-5
@@ -18,7 +18,7 @@
           .col-lg-4
             img.mb-0.d-none.d-lg-block(src='@/assets/curso/intro/1.png')
           .col-lg-4
-            p.mb-0(data-aos="fade-right") El análisis de la estructura abarca aspectos como los recursos humanos, físicos, tecnológicos, financieros y organizacionales que la conforman, mientras que el diagnóstico facilita la identificación de fortalezas, debilidades, oportunidades y amenazas (análisis FODA), además de la revisión de procesos clave, niveles de productividad y cumplimiento normativo. Mediante una visión integral de su funcionamiento, la empresa agrícola puede establecer estrategias que fortalezcan su competitividad y su capacidad de adaptación frente a los cambios del entorno rural, económico, climático y comercial. 
+            p.mb-0 El análisis de la estructura abarca aspectos como los recursos humanos, físicos, tecnológicos, financieros y organizacionales que la conforman, mientras que el diagnóstico facilita la identificación de fortalezas, debilidades, oportunidades y amenazas (análisis FODA), además de la revisión de procesos clave, niveles de productividad y cumplimiento normativo. Mediante una visión integral de su funcionamiento, la empresa agrícola puede establecer estrategias que fortalezcan su competitividad y su capacidad de adaptación frente a los cambios del entorno rural, económico, climático y comercial. 
 
         .row.justify-content-center.align-items-center.mb-0        
           .col-lg-12

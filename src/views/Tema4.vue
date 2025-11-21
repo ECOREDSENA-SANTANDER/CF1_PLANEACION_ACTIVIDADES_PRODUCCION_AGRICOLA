@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Mercados
+      h1 Mercado
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-5
         img.d-none.d-lg-block(src='@/assets/curso/tema4/1.png', alt='')
       .col-lg-7
@@ -24,7 +24,7 @@
     #t_4_1.titulo-segundo.mb-5
       h2 4.1 Tipos de mercados 
 
-    .row.justify-content.align-items-center.mb-5
+    .row.justify-content.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5
         .bg5.mb-0.p-4.mb-lg-0.mb-4
           p.mb-0 Comprender los distintos tipos de mercados es fundamental para que una empresa agrícola pueda posicionar sus productos de manera estratégica.
@@ -36,7 +36,7 @@
         img.img-t.mb-lg-4.mb-0.d-none.d-lg-block(src='@/assets/curso/tema4/4.svg', alt='')
         p.mb-0 En el sector agrícola, esta clasificación ayuda a diferenciar si los productos se venderán de forma local, regional, nacional o internacional, y si se orientarán a consumidores finales, intermediarios o industrias procesadoras.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12(alt="Clasifica los mercados según distintos criterios: por tipo de producto (frescos o procesados), por destino (local, nacional o internacional), por comprador (consumidor final, intermediarios o empresas transformadoras) y por competencia (competencia perfecta u oligopolio/monopolio).")
         .titulo-sexto.color-secundario.mb-4(alt="Clasifica los mercados según distintos criterios: por tipo de producto (frescos o procesados), por destino (local, nacional o internacional), por comprador (consumidor final, intermediarios o empresas transformadoras) y por competencia (competencia perfecta u oligopolio/monopolio).")
           h5 Tabla 7. 
@@ -80,11 +80,11 @@
                 td.tl Comerciantes o distribuidores que revenden.
               tr
                 td.tl #[b Según el tipo de comprador]
-                td.tl Competencia perfecta.
+                td.tl Empresas transformadoras. 
                 td.tl Industrias que usan el producto como materia prima.
               tr.bgg
                 td.tl #[b Según la competencia]
-                td.tl Oligopolio o monopolio.
+                td.tl Competencia perfecta. 
                 td.tl Muchos oferentes y compradores (ejemplo: maíz, papa).
               tr
                 td.tl #[b Según la competencia]
@@ -93,7 +93,7 @@
 
     separador
     #t_4_2.titulo-segundo.mb-5
-      h2 4.2 Variables
+      h2 4.2 Variables del mercado
     
     p.mb-5 Las variables del mercado son factores que afectan el comportamiento de los consumidores y la manera en que la empresa agrícola toma decisiones sobre producción, precios, distribución y promoción. Estas pueden ser:
     

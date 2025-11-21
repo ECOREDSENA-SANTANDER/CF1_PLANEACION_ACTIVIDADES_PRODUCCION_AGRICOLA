@@ -67,7 +67,7 @@
 
     p.mb-5 Para que una empresa agrícola pueda diseñar y ejecutar una estrategia efectiva, es necesario considerar varios componentes fundamentales que orientan su rumbo y su operatividad.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-6
         img.d-none.d-lg-block(src='@/assets/curso/tema3/4.png', alt='', data-aos="fade-right")
       .col-lg-6
